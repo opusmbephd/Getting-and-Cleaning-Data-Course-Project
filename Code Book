@@ -1,10 +1,14 @@
-#Code Book.
+Code Book.
+
 This is the code book for the dataset tidydata.txt.
 
 The variables in this dataset are as follows:
 
+Identifiers:
 subject	
 activity	
+
+Measurements:
 timeBodyAccelerometermeanX	
 timeBodyAccelerometermeanY	
 timeBodyAccelerometermeanZ	
@@ -72,6 +76,13 @@ frequencyBodyGyroscopeMagnitudestd
 frequencyBodyGyroscopeJerkMagnitudemean
 frequencyBodyGyroscopeJerkMagnitudestd	
 						
+Activity Labels:
+1 Walking
+2 Walking upstairs
+3 Walking downstairs
+4 Sitting
+5 Standing
+6 Laying
 
 
 
